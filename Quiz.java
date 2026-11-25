@@ -1,6 +1,3 @@
-
-
-
 public class Quiz {
     private int numerator, denominator;
 
